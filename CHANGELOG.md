@@ -1,5 +1,11 @@
 # @bchilcott/lib-example
 
+## 1.1.0
+
+### Minor Changes
+
+- e0a2693: Create a subtract function
+
 ## 1.0.1
 
 ### Patch Changes
